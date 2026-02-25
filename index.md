@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # CMS MES Community of Practice (CoP)
 
 ## Welcome 
