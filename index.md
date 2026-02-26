@@ -1,7 +1,7 @@
----
-layout: default
-title: Home
----
+<div style="background-color:#005ea2; padding:15px; text-align:center;">
+  <img src="/cmcs-mescop/cms-logo-white.png" alt="Logo" style="height:50px;">
+</div>
+
 
 # CMS MES Community of Practice (CoP)
 
