@@ -88,31 +88,34 @@ tr:hover {
   background-color: #f1f7ff;
 }
 
-/* Footer */
-/* ===== Footer Base ===== */
-
-.site-footer {
+/* Full-width footer background */
+.footer-bg {
   background-color: #1b1b1b;
+  width: 100%;
   padding: 2rem 0;
-  font-family: Arial, sans-serif;
 }
 
-.site-footer p {
-  margin: 0.5rem 0;
+/* Centered container matching main content width */
+.footer-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.footer-text p {
   color: #ffffff;
+  margin: 0.5rem 0;
 }
 
-.site-footer a {
+.footer-text a {
   color: #4dabf7;
   text-decoration: none;
 }
-
-.site-footer a:hover {
+.footer-text a:hover {
   text-decoration: underline;
 }
 
-/* ===== USA Identifier Section ===== */
-
+/* US Agency Identifier Section */
 .usa-identifier {
   background-color: #2d2d2d;
   color: #ffffff;
@@ -120,9 +123,9 @@ tr:hover {
 }
 
 .usa-identifier__container {
-  width: 90%;
   max-width: 1100px;
   margin: 0 auto;
+  padding: 0 1rem;
 }
 
 .usa-identifier__logos {
@@ -132,27 +135,28 @@ tr:hover {
   margin-bottom: 1rem;
 }
 
-/* Fix giant logo */
 .usa-identifier__logo-img {
-  height: 40px;     /* control size */
+  height: 40px;
   width: auto;
 }
 
-/* Domain text */
 .usa-identifier__identity-domain {
   font-weight: bold;
   margin: 0.5rem 0;
 }
 
-/* Links list */
+/* 4-column required links */
 .usa-identifier__required-links-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.75rem 2rem;
   list-style: none;
   padding: 0;
-  margin-top: 1rem;
+  margin: 1.5rem 0;
 }
 
 .usa-identifier__required-links-list li {
-  margin-bottom: 0.5rem;
+  margin: 0;
 }
 
 .usa-identifier a {
@@ -164,15 +168,17 @@ tr:hover {
   text-decoration: underline;
 }
 
-/* 2-column required links grid */
+/* Responsive: 2 columns on tablet, 1 column on mobile */
+@media (max-width: 900px) {
+  .usa-identifier__required-links-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
 
-.usa-identifier__required-links-list {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);  /* 4 columns */
-  gap: 0.75rem 2rem;                      /* row gap / column gap */
-  list-style: none;
-  padding: 0;
-  margin: 1.5rem 0;
+@media (max-width: 640px) {
+  .usa-identifier__required-links-list {
+    grid-template-columns: 1fr;
+  }
 }
 
 .usa-identifier__required-links-list li {
