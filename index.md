@@ -12,16 +12,16 @@ The CMS MES CoP is a meaningful space that brings together states, vendors, and 
 * Improve transparency and standardization of MES topics.
 * Broaden relationships between states and the MES team.
 
-For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](MESFeedback@cms.hhs.gov).
+For questions about joining this CoP, please contact (MESFeedback@cms.hhs.gov).
 
 ### Upcoming CoP sessions 
 
 | Date     | Topic/Title | Links       |
 |----------|-----|------------|
-| Date     | Topic/Title | Links        |
-| Date     | Topic/Title | Links        |
-| Date     | Topic/Title | Links        |
-| Date     | Topic/Title | Links        |
+| Month XX, 2026     | - Meeting Topic 1<br>- Meeting Topic 2<br>- Meeting Topic 3| - Meeting Agenda<br>- Document 1<br>- Document 2        |
+| Month XX, 2026     | - Meeting Topic 1<br>- Meeting Topic 2<br>- Meeting Topic 3| - Meeting Agenda<br>- Document 1<br>- Document 2        |
+| Month XX, 2026     | - Meeting Topic 1<br>- Meeting Topic 2<br>- Meeting Topic 3| - Meeting Agenda<br>- Document 1<br>- Document 2        |
+| Month XX, 2026     | - Meeting Topic 1<br>- Meeting Topic 2<br>- Meeting Topic 3| - Meeting Agenda<br>- Document 1<br>- Document 2        |
 
 #### ⭐  Have ideas for a CoP topic? We invite you to [share them](https://docs.google.com/forms/d/e/1FAIpQLScztZxPfE_IAqTwSPP2anuWammq70Nr2dR2N-DQOiKe4neH3w/viewform). 
 
