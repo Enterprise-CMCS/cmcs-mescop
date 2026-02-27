@@ -168,7 +168,7 @@ tr:hover {
 
 .usa-identifier__required-links-list {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);  /* 2 columns */
+  grid-template-columns: repeat(4, 1fr);  /* 4 columns */
   gap: 0.75rem 2rem;                      /* row gap / column gap */
   list-style: none;
   padding: 0;
