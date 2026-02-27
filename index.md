@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: CMS MES Community of Practice (CoP)
 ---
 
 # CMS MES Community of Practice (CoP)
