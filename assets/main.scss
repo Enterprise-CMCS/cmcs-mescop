@@ -89,10 +89,17 @@ tr:hover {
 }
 
 /* Footer */
+/* ===== Footer Base ===== */
+
 .site-footer {
-  background: #1b1b1b;
-  color: white;
+  background-color: #1b1b1b;
   padding: 2rem 0;
+  font-family: Arial, sans-serif;
+}
+
+.site-footer p {
+  margin: 0.5rem 0;
+  color: #ffffff;
 }
 
 .site-footer a {
@@ -104,22 +111,55 @@ tr:hover {
   text-decoration: underline;
 }
 
+/* ===== USA Identifier Section ===== */
+
 .usa-identifier {
-  background: #2d2d2d;
-  color: white;
+  background-color: #2d2d2d;
+  color: #ffffff;
   padding: 2rem 0;
 }
 
-.usa-identifier__logo-img {
-  height: 40px;
-  margin-right: 1rem;
+.usa-identifier__container {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto;
 }
 
+.usa-identifier__logos {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Fix giant logo */
+.usa-identifier__logo-img {
+  height: 40px;     /* control size */
+  width: auto;
+}
+
+/* Domain text */
+.usa-identifier__identity-domain {
+  font-weight: bold;
+  margin: 0.5rem 0;
+}
+
+/* Links list */
 .usa-identifier__required-links-list {
   list-style: none;
   padding: 0;
+  margin-top: 1rem;
 }
 
 .usa-identifier__required-links-list li {
   margin-bottom: 0.5rem;
+}
+
+.usa-identifier a {
+  color: #4dabf7;
+  text-decoration: none;
+}
+
+.usa-identifier a:hover {
+  text-decoration: underline;
 }
