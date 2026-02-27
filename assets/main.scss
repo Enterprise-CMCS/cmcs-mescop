@@ -105,16 +105,17 @@ tr:hover {
 }
 
 .footer-links {
-  margin-top: 16px;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
+  gap: 12px 24px; /* row and column gaps */
+  max-width: 600px; /* optional, to avoid too wide */
 }
 
 .footer-links a {
-  font-size: 14px;
+font-size: 14px;
   color: #dfe1e2;
-  font-weight: 700; 
+  font-weight: 700;
+  white-space: nowrap; /* optional: prevent link text wrapping */
 }
 
   .footer-top a {
