@@ -87,3 +87,39 @@ tr:nth-child(even) {
 tr:hover {
   background-color: #f1f7ff;
 }
+
+/* Footer */
+.site-footer {
+  background: #1b1b1b;
+  color: white;
+  padding: 2rem 0;
+}
+
+.site-footer a {
+  color: #4dabf7;
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
+
+.usa-identifier {
+  background: #2d2d2d;
+  color: white;
+  padding: 2rem 0;
+}
+
+.usa-identifier__logo-img {
+  height: 40px;
+  margin-right: 1rem;
+}
+
+.usa-identifier__required-links-list {
+  list-style: none;
+  padding: 0;
+}
+
+.usa-identifier__required-links-list li {
+  margin-bottom: 0.5rem;
+}
