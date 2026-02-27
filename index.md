@@ -17,7 +17,6 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](m
 ### Upcoming CoP sessions 
 
 <table>
-  <tr>
     <thead>
     <tr>
       <th>Month</th>
@@ -68,15 +67,11 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](m
   </tbody>
 </table>
 
-
-
-
 #### ⭐  Have ideas for a CoP topic? We invite you to [share them](https://docs.google.com/forms/d/e/1FAIpQLScztZxPfE_IAqTwSPP2anuWammq70Nr2dR2N-DQOiKe4neH3w/viewform). 
 
 ### Past CoP sessions 
 
 <table>
-  <tr>
     <thead>
     <tr>
       <th>Month</th>
