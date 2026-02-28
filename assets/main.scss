@@ -126,10 +126,16 @@ font-size: 16px;
       font-weight: 700; 
 }
 
-  .usa-gov a {
+.usa-gov {
+  margin-top: 32px; /* space from previous block */
   font-size: 16px;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, 
-               "Helvetica Neue", Arial, sans-serif;
   color: #dfe1e2;
-      font-weight: 700; 
+  max-width: 900px; /* same as .wrapper max-width */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.usa-gov a {
+  color: #dfe1e2;
+  text-decoration: underline;
 }
