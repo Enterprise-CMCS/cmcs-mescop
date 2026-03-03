@@ -150,6 +150,8 @@ font-size: 16px;
   text-decoration: underline;
 }
 
+
+
 /* TOP SECTION (GitHub / CMS info) */
 .footer-top {
   background-color: #3d4551; /* lighter than main footer */
@@ -172,6 +174,14 @@ font-size: 16px;
 .site-footer {
   background-color: #1b1b1b;
   padding: 32px 0;
+}
+
+/* Horizontal container: logos + text */
+.footer-content {
+  display: flex;             /* horizontal flex container */
+  align-items: flex-start;   /* top-align logos and text vertically */
+  gap: 8px;                  /* space between logos frame and text frame */
+  margin-bottom: 24px;       /* spacing from links below */
 }
 
 /* Make top footer text white */
@@ -239,11 +249,12 @@ font-size: 16px;
 /* Responsive: stack logos + text vertically on narrow screens */
 @media (max-width: 600px) {
   .footer-content {
-  display: flex;
-  align-items: flex-start; /* align top edges instead of centers */
-  gap: 8px;                 /* space between logos and text frame */
-}
+    flex-direction: column; /* stack logos + text vertically on mobile */
+    align-items: flex-start;
+    gap: 16px; /* slightly larger gap for stacked layout */
+  }
+  
   .footer-logos {
-    margin-bottom: 16px;
+    margin-bottom: 16px; /* space below logos */
   }
 }
