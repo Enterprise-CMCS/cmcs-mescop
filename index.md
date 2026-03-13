@@ -72,7 +72,7 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](m
   </tbody>
 </table>
 
-#### ⭐  Have ideas for a CoP topic? We invite you to [share them](https://docs.google.com/forms/d/e/1FAIpQLScztZxPfE_IAqTwSPP2anuWammq70Nr2dR2N-DQOiKe4neH3w/viewform). 
+#### ⭐  Have ideas for a CoP topic? We invite you to [share them](https://docs.google.com/forms/d/e/1FAIpQLSfbEELvuF62ARcMZYR0vUDI6zFu0LFlPMu7IyPV6dM9feVmcw/viewform?usp=dialog). 
 
 ### Past CoP sessions 
 
