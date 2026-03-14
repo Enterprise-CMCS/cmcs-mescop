@@ -31,42 +31,11 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](m
   </thead>
   <tbody>
   <tr>
-    <td>Month XX, 2026</td>
+    <td>Wednesday, March 25, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      • Meeting Topic 1<br>
-      • Meeting Topic 2<br>
-      • Meeting Topic 3
+      • New Medicaid Detailed Budget Table<br>
     </td>
     <td>
-      • <a href="{{ '/assets/Sample.pdf' | relative_url }}" target="_blank">Meeting Agenda</a><br>
-      • <a href="{{ '/assets/Sample.pdf' | relative_url }}" target="_blank">Document 2</a><br>
-      • <a href="{{ '/assets/Sample.pdf' | relative_url }}" target="_blank">Document 3</a>
-    </td>
-  </tr>
-  <tr>
-    <td>Month XX, 2026</td>
-    <td>
-      • Meeting Topic 1<br>
-      • Meeting Topic 2<br>
-      • Meeting Topic 3
-    </td>
-    <td>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Meeting Agenda</a><br>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Document 2</a><br>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Document 3</a>
-    </td>
-  </tr>
- <tr>
-    <td>Month XX, 2026</td>
-    <td>
-      • Meeting Topic 1<br>
-      • Meeting Topic 2<br>
-      • Meeting Topic 3
-    </td>
-    <td>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Meeting Agenda</a><br>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Document 2</a><br>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Document 3</a>
     </td>
   </tr>
   </tbody>
@@ -74,55 +43,4 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](m
 
 #### ⭐  Have ideas for a CoP topic? We invite you to [share them](https://docs.google.com/forms/d/e/1FAIpQLSfbEELvuF62ARcMZYR0vUDI6zFu0LFlPMu7IyPV6dM9feVmcw/viewform?usp=dialog). 
 
-### Past CoP sessions 
 
-<table>
-    <thead>
-    <tr>
-      <th>Month</th>
-      <th>Topics</th>
-      <th>Documents</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td>Month XX, 2026</td>
-    <td>
-      • Meeting Topic 1<br>
-      • Meeting Topic 2<br>
-      • Meeting Topic 3
-    </td>
-    <td>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Meeting Agenda</a><br>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Document 2</a><br>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Document 3</a>
-    </td>
-  </tr>
-  <tr>
-    <td>Month XX, 2026</td>
-    <td>
-      • Meeting Topic 1<br>
-      • Meeting Topic 2<br>
-      • Meeting Topic 3
-    </td>
-    <td>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Meeting Agenda</a><br>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Document 2</a><br>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Document 3</a>
-    </td>
-  </tr>
- <tr>
-    <td>Month XX, 2026</td>
-    <td>
-      • Meeting Topic 1<br>
-      • Meeting Topic 2<br>
-      • Meeting Topic 3
-    </td>
-    <td>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Meeting Agenda</a><br>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Document 2</a><br>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Document 3</a>
-    </td>
-  </tr>
-  </tbody>
-</table>
