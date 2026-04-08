@@ -66,7 +66,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
      <tr>
     <td>Wednesday, June 17, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      Alternative of Analysis<br>
+      Analysis of Alternatives<br>
     </td>
     <td>
     TBD<br> 
