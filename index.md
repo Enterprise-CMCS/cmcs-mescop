@@ -70,7 +70,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
 </table>
 
 ### Past CoP sessions 
-
+Please sign in to the Teams meeting to view the video links.
 <table>
     <thead>
     <tr>
