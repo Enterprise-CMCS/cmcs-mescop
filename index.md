@@ -51,7 +51,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
      <tr>
     <td>Wednesday, June 17, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      Analysis of Alternatives<br>
+      Analysis of Alternatives and Acquisition Checklist<br>
     </td>
     <td>
     TBA<br> 
@@ -60,7 +60,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
      <tr>
     <td>Wednesday, July 29, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      Acquisition Checklist<br>
+      Agile Oversight Model<br>
     </td>
     <td>
     TBA<br> 
@@ -86,7 +86,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       New Medicaid Detailed Budget Table<br>
     </td>
     <td>
-    <a href="https://events.gcc.teams.microsoft.com/event/672780d3-747d-49aa-9313-b9270a56bde8@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Meeting Recording</a><br> 
+    <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/makenzie_mcintoshrollins2_cms_hhs_gov/IQAI_Utb7_OWQKZ035YQHKCAAbX8zptmXrnXlkF0DrOgXCE">Meeting Recording</a><br> 
     <a href="assets/MES CoP_ New Medicaid Detailed Budget Table_Transcript.docx" target="_blank" rel="noopener noreferrer">Meeting Transcript</a><br> 
     <a href="assets/March MES CoP_Welcome.pptx" target="_blank" rel="noopener noreferrer">Medicaid Enterprise Systems (MES) Community of Practice (COP)</a><br> 
     <a href="assets/MES-MDBT+CHIP and non-FIFO Presentation - State Facing (1).pptx" target="_blank" rel="noopener noreferrer">Streamlining Medicaid Enterprise Systems | Updates on the Medicaid Detailed Budget Table Process and Template</a><br>  
@@ -112,7 +112,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       MDBT 2.0<br>
     </td>
     <td>
-    <a href="https://events.gcc.teams.microsoft.com/event/2dbae0ac-43f8-4dfe-b2c1-f4d37dc63c29@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
+    <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/makenzie_mcintoshrollins2_cms_hhs_gov/IQB6HoKTdepAS4jFkgSJC_i1AbRQa16cIF0SJnh6pMkbz-M">Meeting Recording</a><br> 
     </td>
   </tr>
   </tbody>
