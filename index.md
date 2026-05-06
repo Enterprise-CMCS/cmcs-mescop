@@ -113,7 +113,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     </td>
     <td>
     <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/makenzie_mcintoshrollins2_cms_hhs_gov/IQB6HoKTdepAS4jFkgSJC_i1AbRQa16cIF0SJnh6pMkbz-M">Meeting Recording</a><br> 
-         <a href=" " target="_blank" rel="noopener noreferrer">Office Hours Transcript</a><br> 
+         <a href="assets/MES CoP Office Hours_ MDBT 2.0.docx" target="_blank" rel="noopener noreferrer">Office Hours Transcript</a><br> 
     </td>
   </tr>
       <tr>
