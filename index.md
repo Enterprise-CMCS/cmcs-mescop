@@ -33,16 +33,16 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
      <tr>
     <td>Wednesday, May 20, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      Project Status Reports<br>
+      Analysis of Alternatives<br>
     </td>
     <td>
-    TBA<br> 
+    <a href="https://events.gcc.teams.microsoft.com/event/8b16f779-da7b-4dbd-aa29-be35127d2d60@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br>  
     </td>
   </tr>
      <tr>
     <td>Wednesday, June 17, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      Analysis of Alternatives and Acquisition Checklist<br>
+      Project Status Reports and Acquisition Checklist<br>
     </td>
     <td>
     TBA<br> 
@@ -90,6 +90,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     </td>
     <td>
     <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/makenzie_mcintoshrollins2_cms_hhs_gov/IQC1znw34ub6RLGKa105h-RbAY8fI_83JNrjFX48qA1Hq-Y">Meeting Recording</a><br> 
+    <a href="assets/assets/CoP_ORW_4_29_2026 V2 FINAL.pptx" target="_blank" rel="noopener noreferrer">(MES) (COP): Operational Report Workbook (ORW) Slide Deck</a><br> 
     </td>
   </tr>
   </tbody>
@@ -113,6 +114,16 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     </td>
     <td>
     <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/makenzie_mcintoshrollins2_cms_hhs_gov/IQB6HoKTdepAS4jFkgSJC_i1AbRQa16cIF0SJnh6pMkbz-M">Meeting Recording</a><br> 
+         <a href="assets/MES CoP Office Hours_ MDBT 2.0.docx" target="_blank" rel="noopener noreferrer">Office Hours Transcript</a><br> 
+    </td>
+  </tr>
+      <tr>
+    <td>Wednesday, May 13, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      ORW 2.0<br>
+    </td>
+    <td>
+    <a href="https://events.gcc.teams.microsoft.com/event/a0baab7f-8d3c-4ce6-a05f-471deac0f4f2@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
     </td>
   </tr>
   </tbody>
