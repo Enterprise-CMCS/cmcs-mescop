@@ -123,7 +123,8 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       ORW 2.0<br>
     </td>
     <td>
-    <a href="https://events.gcc.teams.microsoft.com/event/a0baab7f-8d3c-4ce6-a05f-471deac0f4f2@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
+    <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/mianekee_johnson_cms_hhs_gov/IQAjIG6hW0vMT7jdAIwVSeYdARGFdfOqHDE75oLPhRyLPV4?e=pcPvNn">Meeting Recording</a><br> 
+        <a href="assets/MES COP Office Hours_ ORW.docx" target="_blank" rel="noopener noreferrer">Office Hours Transcript</a><br> 
     </td>
   </tr>
   </tbody>
