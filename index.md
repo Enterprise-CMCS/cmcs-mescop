@@ -86,7 +86,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     <td>
     <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/makenzie_mcintoshrollins2_cms_hhs_gov/IQC1znw34ub6RLGKa105h-RbAY8fI_83JNrjFX48qA1Hq-Y">Meeting Recording</a><br> 
     <a href="assets/MES CoP Operational Report Workbook_Transcript.docx" target="_blank" rel="noopener noreferrer">Meeting Transcript</a><br> 
-    <a href="assets/CoP_ORW_4_29_2026 V2 FINAL.pptx" target="_blank" rel="noopener noreferrer">(MES) (COP): Operational Report Workbook (ORW) Slide Deck</a><br>
+    <a href="assets/CoP_ORW_4_29_2026 V2 FINAL.pptx" target="_blank" rel="noopener noreferrer">MES COP: Operational Report Workbook (ORW) Slide Deck</a><br>
     </td>
   </tr>
       <tr>
@@ -96,6 +96,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     </td>
     <td>
     <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/mianekee_johnson_cms_hhs_gov/IQCkakt6R7n5SZL4k5PZGSyLAUoAukns_SrFH8OMgX0riOs?e=ZghjfB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Meeting Recording</a><br> 
+    <a href="assets/AoA_MES CoP_5.20.26.pdf" target="_blank" rel="noopener noreferrer">MES COP: Analysis of Alternatives (AoA) Template Slide Deck</a><br>
     </td>
   </tbody>
   </table>
