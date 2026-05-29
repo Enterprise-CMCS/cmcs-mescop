@@ -132,6 +132,14 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
         <a href="assets/MES COP Office Hours_ ORW.docx" target="_blank" rel="noopener noreferrer">Office Hours Transcript</a><br> 
     </td>
   </tr>
+       <tr>
+    <td>Tuesday, June 2, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      AoA 2.0<br>
+    </td>
+    <td>
+    <a href="https://events.gcc.teams.microsoft.com/event/918ecb12-3445-4905-8467-5aa1639be21d@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
+    </td>
   </tbody>
   </table>
 
