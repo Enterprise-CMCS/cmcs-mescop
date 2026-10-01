@@ -40,7 +40,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       TBD<br>
     </td>
     <td>
-    <a href="TBD">Register Here</a><br>
+    <a href="">TBD</a><br>
     </td>
   </tr>
 </tbody>
