@@ -111,6 +111,17 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     <a href="assets/MES Agile Oversight Pilot Deck _CoP-07232026.pptx">MES CoP Agile Oversight Slide Deck</a><br> 
     </td>
   </tr>
+  <tr>
+    <td>Wednesday, September 30, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      Advanced Planning Document (APD) and Operational APD Templates<br>
+    </td>
+    <td>
+    <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/mianekee_johnson_cms_hhs_gov/IQC-aASvXoHzT6fSo_m---AvAdZ3DTDUSDNhG4GoA3bFWYE?e=8sK2gF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Meeting Recording</a><br>
+    <a href="">Meeting Transcript</a><br>
+    <a href="assets/2025.07.03_SHO Release_APD-OAPD Presentation.pptx">MES CoP Advanced Planning Document (APD) and Operational APD Templates Slide Deck</a><br> 
+    </td>
+  </tr>
 </tbody>
 </table>
 
