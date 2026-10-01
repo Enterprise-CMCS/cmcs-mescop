@@ -35,12 +35,12 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
      <tr>
   </tr>
      <tr>
-    <td>September 30, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>December 9, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      APD Templates<br>
+      TBD<br>
     </td>
     <td>
-    <a href="https://events.gcc.teams.microsoft.com/event/a824917e-fe43-4fad-97b3-5830e606bcfc@fbdcedc1-70a9-414b-bfa5-c3063fc3395e?source=copyLinkLegacyShareLinkDialog">Register Here</a><br>
+    <a href="">TBD</a><br>
     </td>
   </tr>
 </tbody>
@@ -118,7 +118,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     </td>
     <td>
     <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/mianekee_johnson_cms_hhs_gov/IQC-aASvXoHzT6fSo_m---AvAdZ3DTDUSDNhG4GoA3bFWYE?e=8sK2gF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Meeting Recording</a><br>
-    <a href="">Meeting Transcript</a><br>
+    <a href="assets/Transcript_MES CoP_ Advanced Planning Document (APD) and Operational APD Templates.docx">Meeting Transcript</a><br>
     <a href="assets/2025.07.03_SHO Release_APD-OAPD Presentation.pptx">MES CoP Advanced Planning Document (APD) and Operational APD Templates Slide Deck</a><br> 
     </td>
   </tr>
