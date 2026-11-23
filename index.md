@@ -35,7 +35,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
      <tr>
   </tr>
      <tr>
-    <td>December 9, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>February 2027 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
       TBD<br>
     </td>
